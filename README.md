@@ -4,10 +4,6 @@ Step-by-step explanation** of the mini project **"5 Essential Skills for Shell S
 
 ---
 
-# **5 Essential Skills for Shell Scripting in Cloud Computing**
-
----
-
 ## **Project Objective**:
 
 To learn and apply five essential shell scripting skills (functions, arrays, environment variables, command line arguments, error handling) by building an automated script that provisions AWS infrastructure for a data science use case.
